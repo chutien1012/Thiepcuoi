@@ -1,8 +1,3 @@
-Dưới đây là file HTML hoàn chỉnh đã được tinh chỉnh, tối ưu và sửa toàn bộ các lỗi hiển thị/cấu trúc để thiệp cưới của bạn hoạt động mượt mà và đẹp mắt nhất.
-
-Các thông tin chi tiết (tên chú rể/cô dâu, thời gian, địa điểm, các mảng thông tin) đã được đưa đầy đủ vào mã bên dưới:
-
-```html
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -345,5 +340,3 @@ document.addEventListener('click', (e) => {
 </script>
 </body>
 </html>
-
-```
